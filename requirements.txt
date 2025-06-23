@@ -1,0 +1,22 @@
+# CrewAI Bot Project Dependencies
+# Python 3.10-3.13 호환
+
+# 메인 프레임워크
+crewai>=0.126.0
+crewai-tools>=0.15.0
+
+# LLM 제공자 (선택적)
+openai>=1.0.0
+anthropic>=0.25.0
+
+# 추가 도구들
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+
+# 개발 도구
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# **더미데이터가 아닌 실제 의존성 파일입니다**
